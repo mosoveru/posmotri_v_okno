@@ -188,7 +188,6 @@ ol {
 .content__details {
   display: flex;
   flex-direction: column;
-  flex-grow: 1;
   gap: 20px;
   min-block-size: 534px;
   inline-size: 100%;
